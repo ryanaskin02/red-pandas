@@ -12,7 +12,7 @@ Here’s how someone can pick up and use this project:
 1. **Clone** the repository, replacing YOURUSERNAME with YOURUSERNAME. 
 
 ```{.bash}
-git clone https://github.com/USERNAME/red-pandas.git
+git clone https://github.com/YOURUSERNAME/red-pandas.git
 cd red-pandas
 ```
 
